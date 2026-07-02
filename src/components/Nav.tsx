@@ -9,7 +9,8 @@ function Nav(){
             <li><a href="/">Home</a></li>
             <li><a href="/history">History</a></li>
             <li><a href="/services">Services offered & eligibility</a></li>
-            <li><a href="https://library-login.vercel.app/studentlogin" target="_blank">Login/Registration</a></li>
+            <li><a href="https://library-login.vercel.app/studentlogin" target="_blank">Login</a></li>
+            <li><a href="https://library-login.vercel.app/studentregister" target="_blank">Registration</a></li>
         </ul>
         </section>
     )
